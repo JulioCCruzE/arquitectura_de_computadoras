@@ -1,0 +1,8 @@
+Para resolver el error en el JTAG a la hora de intentar cargar un proyecto en la Cyclone IV debemos agregar un documento con las rules del USB blaster
+
+1. Crear un archivo de texto llamado "40-usbblaster.rules", dentro del archivo copiar la siguiente linea de texto:
+
+	SUBSYSTEM=="usb", ATTRS{idVendor}=="09fb", ATTRS{idProduct}=="6001", GROUP="plugdev", MODE="0666", SYMLINK+="usbblaster"
+
+2. Copiar el archivo anterior en la dirección:
+	/etc/udev/rules.d
