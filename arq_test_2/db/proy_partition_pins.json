@@ -1,0 +1,69 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "atras",
+					"strict" : false
+				},
+				{
+					"name" : "adelante",
+					"strict" : false
+				},
+				{
+					"name" : "der",
+					"strict" : false
+				},
+				{
+					"name" : "izq",
+					"strict" : false
+				},
+				{
+					"name" : "rvel",
+					"strict" : false
+				},
+				{
+					"name" : "lvel",
+					"strict" : false
+				},
+				{
+					"name" : "lwheel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lwheel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rwheel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rwheel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "S[1]",
+					"strict" : false
+				},
+				{
+					"name" : "S[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "boton",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
