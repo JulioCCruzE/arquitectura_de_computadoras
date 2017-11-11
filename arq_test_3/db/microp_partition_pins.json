@@ -1,0 +1,53 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "e_presente[7]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[6]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[5]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[4]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[3]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[2]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[1]",
+					"strict" : false
+				},
+				{
+					"name" : "e_presente[0]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "boton",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

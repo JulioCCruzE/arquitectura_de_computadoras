@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Nov 10 18:56:40 2017
+Quartus Prime Version : 15.1.0 Build 185 10/21/2015 SJ Lite Edition
+Revision Name : microp
+Top-level Entity Name : microp
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 3,700 / 22,320 ( 17 % )
+    Total combinational functions : 3,686 / 22,320 ( 17 % )
+    Dedicated logic registers : 128 / 22,320 ( < 1 % )
+Total registers : 128
+Total pins : 11 / 154 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 1 / 132 ( < 1 % )
+Total PLLs : 0 / 4 ( 0 % )
